@@ -8,7 +8,7 @@ by Peter Kahl, 14 September 2025
 
 DOI: 10.13140/RG.2.2.27086.93768
 
-![alt text](https://github.com/Peter-Kahl/Cognitive-Dissonance-as-Epistemic-Event/blob/main/hong_kong.jpg?raw=true)
+![alt text](https://github.com/Peter-Kahl/Lessons-from-the-Hong-Kong-Unrest/blob/main/hong_kong.jpg?raw=true)
 
 ### Abstract
 
@@ -30,7 +30,7 @@ This paper forms part of a wider research programme on fiduciary-epistemic gover
 
 ### Download Latest Edition
 
-- [Download here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/Cognitive-Dissonance-as-Epistemic-Event/master/Kahl_P_Lessons_from_the_Hong_Kong_Unrest_2025-09-14.pdf)
+- [Download here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/Lessons-from-the-Hong-Kong-Unrest/master/Kahl_P_Lessons_from_the_Hong_Kong_Unrest_2025-09-14.pdf)
 
 ### Cite this work
 
