@@ -6,8 +6,6 @@
 
 by Peter Kahl, 14 September 2025
 
-DOI: 10.13140/RG.2.2.27086.93768
-
 ![alt text](https://github.com/Peter-Kahl/Lessons-from-the-Hong-Kong-Unrest/blob/main/hong_kong.jpg?raw=true)
 
 ### Abstract
@@ -34,9 +32,7 @@ This paper forms part of a wider research programme on fiduciary-epistemic gover
 
 ### Cite this work
 
-```
-Kahl, P. (2025). Lessons from the Hong Kong Unrest: Authoritarian Capture and the Epistemic Fragility of Protest. Lex et Ratio Ltd. https://doi.org/10.13140/rg.2.2.27086.93768
-```
+Kahl, P. (2025). _Lessons from the Hong Kong Unrest: Authoritarian Capture and the Epistemic Fragility of Protest_. Lex et Ratio Ltd. GitHub https://github.com/Peter-Kahl/Lessons-from-the-Hong-Kong-Unrest
 
 ### Publisher & Licence
 
@@ -44,4 +40,4 @@ First published in Great Britain by Lex et Ratio Ltd 14 September 2025.
 
 © 2025 Lex et Ratio Ltd. Licensed under Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International (CC BY-NC-ND 4.0).
 
-You are free to share — copy and redistribute the material in any medium or format — under the following terms: attribution required; non-commercial use only; no modifications permitted. Full licence text at <https://creativecommons.org/licenses/by-nc-nd/4.0/>.
+You are free to share — copy and redistribute the material in any medium or format — under the following terms: attribution required; non-commercial use only; no modifications permitted. Full licence text at: <https://creativecommons.org/licenses/by-nc-nd/4.0/>
