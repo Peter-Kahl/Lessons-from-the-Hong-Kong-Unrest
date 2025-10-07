@@ -2,7 +2,7 @@
 
 ### Authoritarian Capture and the Epistemic Fragility of Protest
 
-#### _Why freedom collapses when institutions fail to dignify dependence_
+_(Why freedom collapses when institutions fail to dignify dependence)_
 
 by Peter Kahl, 14 September 2025
 
