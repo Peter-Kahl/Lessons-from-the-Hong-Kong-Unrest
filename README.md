@@ -6,7 +6,7 @@ _(Why freedom collapses when institutions fail to dignify dependence)_
 
 by Peter Kahl, 14 September 2025
 
-DOI: [10.5281/zenodo.17286241](https://doi.org/10.5281/zenodo.17286241)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17286241.svg)](https://doi.org/10.5281/zenodo.17286241)
 
 ![alt text](https://github.com/Peter-Kahl/Lessons-from-the-Hong-Kong-Unrest/blob/main/hong_kong.jpg?raw=true)
 
@@ -34,7 +34,7 @@ This paper forms part of a wider research programme on fiduciary-epistemic gover
 
 ### Cite this work
 
-Kahl, P. (2025). _Lessons from the Hong Kong Unrest: Authoritarian capture and the epistemic fragility of protest_. Lex et Ratio Ltd. GitHub https://github.com/Peter-Kahl/Lessons-from-the-Hong-Kong-Unrest
+Kahl, P. (2025). _Lessons from the Hong Kong Unrest: Authoritarian capture and the epistemic fragility of protest_. Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/Lessons-from-the-Hong-Kong-Unrest DOI: https://doi.org/10.5281/zenodo.17286241
 
 ### Publisher & Licence
 
