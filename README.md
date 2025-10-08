@@ -28,11 +28,11 @@ This is a provisional draft circulated for discussion; readers are welcome to ci
 
 - [Download here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/Lessons-from-the-Hong-Kong-Unrest/master/Kahl_P_Lessons_from_the_Hong_Kong_Unrest_2025-09-14.pdf)
 
-### Cite this work
+## Cite this work
 
 Kahl, P. (2025). _Lessons from the Hong Kong Unrest: Authoritarian capture and the epistemic fragility of protest_. Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/Lessons-from-the-Hong-Kong-Unrest DOI: https://doi.org/10.5281/zenodo.17286241
 
-### Publisher & Licence
+## Publisher & Licence
 
 First published in Great Britain by Lex et Ratio Ltd, 14 September 2025.
 
