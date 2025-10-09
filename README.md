@@ -11,7 +11,7 @@ by Peter Kahl, 2025-09-14
 
 ## Abstract
 
-This working paper argues that the failure of Hong Kong’s 2019–20 mobilisation was epistemic before it was political. While millions sympathised with the movement, only a minority sustained dissent. The paradox is explained by integrating _Epistemic Clientelism Theory_ with a reconceptualisation of _cognitive dissonance as an epistemic event_. Protest participation depended not simply on material costs or tactical choices, but on whether individuals could endure contradiction without collapsing into conformity, silence, or exit.
+This working paper argues that the failure of Hong Kong’s 2019–20 mobilisation was epistemic before it was political. While millions sympathised with the movement, only a minority sustained dissent. The paradox is explained by integrating [_Epistemic Clientelism Theory_](https://github.com/Peter-Kahl/Epistemic-Clientelism-Theory) with a reconceptualisation of [_cognitive dissonance as an epistemic event_](https://github.com/Peter-Kahl/Cognitive-Dissonance-as-Epistemic-Event). Protest participation depended not simply on material costs or tactical choices, but on whether individuals could endure contradiction without collapsing into conformity, silence, or exit.
 
 The analysis shows how fiduciary–epistemic scaffolds — universities, professional bodies, and media — failed or inverted, leaving citizens structurally and psychologically isolated. Without institutional buffers, the burdens of contradiction and fear were redistributed downward: youth and precarious actors disproportionately endured trauma and long-term mental health risks, while professionals rationalised withdrawal or exit.
 
