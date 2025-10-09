@@ -2,9 +2,10 @@
 
 ### Authoritarian Capture and the Epistemic Fragility of Protest
 
-by Peter Kahl, 14 September 2025
+by Peter Kahl, 2025-09-14
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17286241.svg)](https://doi.org/10.5281/zenodo.17286241)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17286241.svg)](https://doi.org/10.5281/zenodo.17286241) [![Generic badge](https://img.shields.io/badge/ORCID-0009.0003.1616.4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
+
 
 ![alt text](https://github.com/Peter-Kahl/Lessons-from-the-Hong-Kong-Unrest/blob/main/hong_kong.jpg?raw=true)
 
@@ -34,7 +35,7 @@ Kahl, P. (2025). _Lessons from the Hong Kong Unrest: Authoritarian capture and t
 
 ## Publisher & Licence
 
-First published in Great Britain by Lex et Ratio Ltd, 14 September 2025.
+First published in Great Britain by Lex et Ratio Ltd, 2025-09-14.
 
 © 2025 Lex et Ratio Ltd. Licensed under Creative Commons BY-NC-ND 4.0.\
 You may share this work for non-commercial purposes with attribution and without modification.\
