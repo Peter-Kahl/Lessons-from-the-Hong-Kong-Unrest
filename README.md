@@ -2,9 +2,11 @@
 
 ### Authoritarian Capture and the Epistemic Fragility of Protest
 
+---
+
 by Peter Kahl, 2025-09-14
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17286241.svg)](https://doi.org/10.5281/zenodo.17286241) [![Generic badge](https://img.shields.io/badge/ORCID-0009.0003.1616.4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17286241.svg)](https://doi.org/10.5281/zenodo.17286241) [![Generic badge](https://img.shields.io/badge/ORCID-0009–0003–1616–4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
 
 
 ![alt text](https://github.com/Peter-Kahl/Lessons-from-the-Hong-Kong-Unrest/blob/main/hong_kong.jpg?raw=true)
@@ -21,13 +23,9 @@ Situating Hong Kong in a comparative frame — Belarus, Iran, Taiwan, South Kore
 
 epistemic clientelism, bounded freedom, cognitive dissonance, fiduciary–epistemic scaffolds, epistemic capture, epistemic injustice, Hong Kong unrest, authoritarian resilience, democratic erosion, plurality, academic freedom, media capture
 
-## Working Paper Status
-
-This is a provisional draft circulated for discussion; readers are welcome to cite it, noting that revisions may follow in later versions.
-
 ## Download
 
-- [Download here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/Lessons-from-the-Hong-Kong-Unrest/master/Kahl_P_Lessons_from_the_Hong_Kong_Unrest_2025-09-14.pdf)
+- [Download here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/Lessons-from-the-Hong-Kong-Unrest/master/Kahl_P_Lessons_from_the_Hong_Kong_Unrest_2025-09-14.pdf) ✅ _latest_
 
 ## Cite this work
 
@@ -37,6 +35,5 @@ Kahl, P. (2025). _Lessons from the Hong Kong Unrest: Authoritarian capture and t
 
 First published in Great Britain by Lex et Ratio Ltd, 2025-09-14.
 
-© 2025 Lex et Ratio Ltd. Licensed under Creative Commons BY-NC-ND 4.0.\
-You may share this work for non-commercial purposes with attribution and without modification.\
-Licence available at https://creativecommons.org/licenses/by-nc-nd/4.0/ .
+© 2025 Lex et Ratio Ltd. The author asserts the moral right to be identified as the author of this work and to object to its derogatory treatment. Licensed under Creative Commons BY-NC-ND 4.0. You may share this work for non-commercial purposes with attribution and without modification.\
+Licence: https://creativecommons.org/licenses/by-nc-nd/4.0/ .
